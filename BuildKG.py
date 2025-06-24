@@ -12,6 +12,12 @@ with open("./relations.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 def buildGraph():
+    query_delete_all = """
+    MATCH (n)
+    DETACH DELETE (n)
+    """
+    graph.query(query=query_delete_all)
+
     query = """
     MERGE (f:Function {name: $fun_name})
     SET f.code = $fun_code
