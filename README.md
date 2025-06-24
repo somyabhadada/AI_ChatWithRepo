@@ -14,6 +14,18 @@ ChatWithRepo is an AI-powered GitHub code assistant that allows you to interacti
 - **Graph analysis:** Extracts and queries code structure as a knowledge graph (Neo4j).
 
 ---
+## 🖥️ Demo
+
+### 🔹 Initial Interface
+![Initial Interface](assets/ui_initial.png)
+
+### 🔹 Chat Example – Question Asked
+![Chat Screenshot 1](assets/chat1.png)
+
+### 🔹 Chat Example – LLM Answer
+![Chat Screenshot 2](assets/chat2.png)
+
+
 
 ## How It Works
 
