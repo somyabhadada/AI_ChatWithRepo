@@ -64,6 +64,8 @@ ChatWithRepo is an AI-powered GitHub code assistant that allows you to interacti
    - [HuggingFace Transformers](https://huggingface.co/)
    - [Neo4j](https://neo4j.com/)
    - Other requirements in `requirements.txt` (add this file if missing)
+   - git lfs install
+   - git clone https://huggingface.co/BAAI/bge-code-v1
 
    ```bash
    pip install -r requirements.txt
