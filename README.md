@@ -52,8 +52,8 @@ ChatWithRepo is an AI-powered GitHub code assistant that allows you to interacti
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/priyanshu2393/ChatWithRepo.git
-   cd ChatWithRepo
+   git clone https://github.com/somyabhadada/AI_ChatWithRepo.git
+   cd AI_ChatWithRepo
    ```
 
 2. **Install dependencies**
